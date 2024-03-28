@@ -1,7 +1,6 @@
 # Store-Management-System
 Sure, here's a short README file for the provided C++ store management system project:
 
----
 
 # MSM Stores - Store Management System
 
